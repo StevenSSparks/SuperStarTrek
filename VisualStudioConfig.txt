@@ -1,0 +1,16 @@
+Visual Studio Setup 
+
+Make sure you have C/C++ Desktop development Installed for Visual Studio
+
+The project file has been setup for you with the following custom settings to get this to build and run
+
+Setup the Following Properties
+1. Properties -> Configuation Properties -> Advanced -> Diable Specific Warnings: 4996
+2. Properties -> Configration Proporties -> C/C++ - > Preprocessor Definitions: WINDOWS;%(PreprocessorDefinitions)
+
+
+
+The application has several issues to make this work "better".
+
+
+

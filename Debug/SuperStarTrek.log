@@ -1,0 +1,17 @@
+﻿  setup.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(157,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(169,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(170,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(223,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(236,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(296,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(342,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(343,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(260,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(300,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(490,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(492,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(493,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(497,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(499,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SuperStarTrek.vcxproj -> C:\Users\stevesparks\source\repos\SuperStarTrek\Debug\SuperStarTrek.exe
