@@ -21,13 +21,13 @@ I did not want too rustic because I wanted to customize the game a little using 
 I installed the needed C/C++ tools for VS2019. You need
 * Desktop Development with C++
 * Optional – Universal Windows Platform Development 
-I then:
+### I then:
 * Created an Empty Project called “SuperStarTrek” and then copied the files from the source into the project ../SuperStarTrek folder. 
 * I then added all the files using the right click Add menu
 * Put the sst.h file in the headers folder
 * Removed some older build details and an outdated makefile
 * I moved the documentation to a resource folder 
-* Next, I needed to adjust the project properties to stop choking on the older by setting the Following project level properties
+### Next, I needed to adjust the project properties to stop choking on the older by setting the Following project level properties
   * Properties -> Configuation Properties -> Advanced -> Diable Specific Warnings: 4996
   * Properties -> Configration Proporties -> C/C++ - > Preprocessor Definitions: WINDOWS;%(PreprocessorDefinitions)
   * Properties -> Configuation Properties = Linker -> System -> SubSystem: Console (/SUBSYSTEM:CONSOLE)
