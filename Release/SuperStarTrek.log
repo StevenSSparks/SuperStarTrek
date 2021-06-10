@@ -1,0 +1,113 @@
+﻿  ai.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(82,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(148,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(151,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(153,41): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(580,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\ai.c(588,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  battle.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(247,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(283,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(286,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(316,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(317,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(364,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(365,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(508,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(653,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(674,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(833,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(980,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\battle.c(1204,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  events.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\events.c(122,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\events.c(633,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\events.c(667,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  finish.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\finish.c(340,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\finish.c(438,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\finish.c(485,15): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  moving.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(46,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(50,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(51,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(72,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(73,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(171,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(173,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(366,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(367,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(368,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(369,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(374,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(375,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(379,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(380,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(549,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(611,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(616,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(619,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(919,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(1001,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\moving.c(1002,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  osx.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\osx.c(5,10): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  planets.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\planets.c(80,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  reports.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\reports.c(424,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\reports.c(429,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\reports.c(431,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\reports.c(436,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  setup.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(21,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(34,10): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(37,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(78,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(80,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(157,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(169,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(170,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(223,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(236,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(296,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(342,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(343,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(260,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(300,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(479,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(490,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(492,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(493,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(497,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\setup.c(499,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  sst.c
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(479,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.h(480,5): error C2059: syntax error: '<parameter-list>'
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(154,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(439,10): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(440,10): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(533,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(534,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(538,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(539,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(587,10): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(621,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(627,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stevesparks\source\repos\SuperStarTrek\SuperStarTrek\sst.c(691,42): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
