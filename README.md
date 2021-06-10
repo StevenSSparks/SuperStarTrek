@@ -2,10 +2,14 @@
 Classic 1970's Star Trek Game in Modern VS2019 Project
 
 ## When 
-06/08/2021
+* Released: 09/21/1978
+* Fixes: 2002 to 2015
+* Visual Studio Setup: 06/08/2021
 
 ## Who
-Steve Sparks
+Developers and History: https://en.wikipedia.org/wiki/Star_Trek_(1971_video_game)#Super_Star_Trek
+Fixes 2002 to 2019: Tom Almy
+VS2019: Steve Sparks
 
 ## Why
 I was in an architecture meeting virtually with co-workers talking about old games, and somebody mentioned the classic Text Star Trek Game. After some searching the site above with discovered. I also found the same in a dox box web emulator. Those web things are cool, but I like something more rustic.
